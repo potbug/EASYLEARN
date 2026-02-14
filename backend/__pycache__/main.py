@@ -96,3 +96,4 @@ def process(data: InputData):
 @app.get("/")
 def root():
     return {"message": "Backend running ✅"}
+##main.py
